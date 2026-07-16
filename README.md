@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/tanyanassa/Leetcode_Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2239-find-closest-number-to-zero](https://github.com/tanyanassa/Leetcode_Solutions/tree/master/2239-find-closest-number-to-zero) |
 | [2418-sort-the-people](https://github.com/tanyanassa/Leetcode_Solutions/tree/master/2418-sort-the-people) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/tanyanassa/Leetcode_Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0541-reverse-string-ii](https://github.com/tanyanassa/Leetcode_Solutions/tree/master/0541-reverse-string-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/tanyanassa/Leetcode_Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Trie
 |  |
 | ------- |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/tanyanassa/Leetcode_Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/tanyanassa/Leetcode_Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2418-sort-the-people](https://github.com/tanyanassa/Leetcode_Solutions/tree/master/2418-sort-the-people) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/tanyanassa/Leetcode_Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -68,8 +71,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1688-count-of-matches-in-tournament](https://github.com/tanyanassa/Leetcode_Solutions/tree/master/1688-count-of-matches-in-tournament) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/tanyanassa/Leetcode_Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
 | ------- |
 | [1688-count-of-matches-in-tournament](https://github.com/tanyanassa/Leetcode_Solutions/tree/master/1688-count-of-matches-in-tournament) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/tanyanassa/Leetcode_Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Number Theory
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/tanyanassa/Leetcode_Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
