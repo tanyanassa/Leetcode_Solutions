@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/tanyanassa/Leetcode_Solutions/tree/master/2418-sort-the-people) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/tanyanassa/Leetcode_Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3895-count-digit-appearances](https://github.com/tanyanassa/Leetcode_Solutions/tree/master/3895-count-digit-appearances) |
+| [3912-valid-elements-in-an-array](https://github.com/tanyanassa/Leetcode_Solutions/tree/master/3912-valid-elements-in-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
