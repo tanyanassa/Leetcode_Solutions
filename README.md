@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/0175-combine-two-tables) |
 | [1729-find-followers-count](https://github.com/tanyanassa/Leetcode_Solutions/tree/master/1729-find-followers-count) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/tanyanassa/Leetcode_Solutions/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Stack
