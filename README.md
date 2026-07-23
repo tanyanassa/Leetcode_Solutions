@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/tanyanassa/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
 | [0084-largest-rectangle-in-histogram](https://github.com/tanyanassa/Leetcode_Solutions/tree/master/0084-largest-rectangle-in-histogram) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0541-reverse-string-ii](https://github.com/tanyanassa/Leetcode_Solutions/tree/master/0541-reverse-string-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/tanyanassa/Leetcode_Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -147,4 +149,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
